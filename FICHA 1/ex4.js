@@ -12,7 +12,7 @@ function isPerfectNumber(num) {
 }
 
 if (isPerfectNumber(number)) {
-    console.log(`${number} é um número perfeito.`);
+    console.log(`${number} é um número perfeito.`)
 } else {
-    console.log(`${number} não é um número perfeito.`);
+    console.log(`${number} não é um número perfeito.`)
 }
